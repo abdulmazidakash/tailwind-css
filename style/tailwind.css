@@ -1,3 +1,14 @@
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* @layer base{
+	h1{
+		@apply font-bold
+	}
+}
+
+.btn{
+	@apply mx-10 my-10 inline-block bg-orange-400 text-white font-semibold text-lg py-3 px-5 rounded-full hover:bg-indigo-600 hover:transition-colors focus:ring-2 ring-offset-2 ring-purple-500
+} */
